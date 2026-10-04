@@ -3,11 +3,11 @@
   <PropertyGroup>
     <Version>1.0.0.0</Version>
     <Author>katabame</Author>
-    <Name>DalamudTemplate</Name>
-    <Punchline>テンプレートプラグイン</Punchline>
-    <Description>Dalamudのテンプレートプラグインです</Description>
+    <Name>FateTracker</Name>
+    <Punchline>FATEトラッカー</Punchline>
+    <Description>FATEの進行状況を追跡するプラグインです</Description>
     <RepoUrl>https://github.com/katabame/DalamudTemplate</RepoUrl>
-    <Tags>plugin;katabame</Tags>
+    <Tags>FATE;track</Tags>
   </PropertyGroup>
   <ItemGroup>
     <PackageReference Update="DotNet.ReproducibleBuilds" Version="2.0.5" />
